@@ -1,5 +1,5 @@
 import streamlit as st
-import helper1
+import helper
 import pickle
 from PIL import Image
 import numpy as np
