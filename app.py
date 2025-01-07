@@ -1,5 +1,4 @@
 import streamlit as st
-import sklearn
 import helper
 import pickle
 from PIL import Image
