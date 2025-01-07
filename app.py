@@ -8,7 +8,7 @@ import numpy as np
 
 global prep_image
 
-model = pickle.load(open("C:/Users/emanm/OneDrive/Desktop/python/CV/New folder/model59.pkl",'rb'))
+model = pickle.load(open("model59.pkl",'rb'))
 
 
 st.markdown(
